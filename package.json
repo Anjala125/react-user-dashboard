@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+   "homepage": "https://anjala125.github.io/react-user-dashboard",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

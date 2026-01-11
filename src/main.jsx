@@ -10,7 +10,7 @@ if (redirect) {
 }
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <BrowserRouter>
+<StrictMode>
     <App />
-  </BrowserRouter>
+</StrictMode>
 )
